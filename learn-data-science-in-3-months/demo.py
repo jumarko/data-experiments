@@ -18,6 +18,5 @@ def fitAndReport(classifier):
     prediction = clf.predict([[190,70,43]])
     print("Using classifier", classifier, ": \n  result=", prediction)
 
-fitAndReport(DecisionTreeClassifier)
-fitAndReport(RandomForestClassifier)
-fitAndReport(GaussianNB)
+for cl in [DecisionTreeClassifier, RandomForestClassifier, GaussianNB]:
+    fitAndReport(cl)
