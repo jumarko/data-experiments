@@ -1,0 +1,3 @@
+# Ignore python's virtual environment: https://docs.python.org/3/library/venv.html
+# https://medium.com/@jtpaasch/the-right-way-to-use-virtual-environments-1bc255a0cba7
+myenv
