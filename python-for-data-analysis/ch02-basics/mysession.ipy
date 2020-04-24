@@ -1,0 +1,23 @@
+# coding: utf-8
+?
+%magic
+%time 
+%time 
+%run hello_world.py
+# from Python for Data Analysis (book)
+import numpy as np
+import matplotlib.pyplot as plt import pandas as pd
+import seaborn as sns
+import statsmodels as sm
+import numpy as np
+import matplotlib.pyplot as plt import pandas as pd
+import seaborn as sns
+import statsmodels as sm
+import numpy as np
+import matplotlib.pyplot as plt 
+import pandas as pd
+import seaborn as sns
+import statsmodels as sm
+import numpy as np
+data = {i : np.random.randn() for i in range(7)}
+data
