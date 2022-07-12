@@ -1,0 +1,6 @@
+{:deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        ;; clerk - notebooks: https://github.com/nextjournal/clerk
+        io.github.nextjournal/clerk {:mvn/version "0.8.451"}
+        ;; https://github.com/ngrunwald/meta-csv
+        meta-csv/meta-csv {:mvn/version "0.1.0"}
+}}
