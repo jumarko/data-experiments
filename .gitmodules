@@ -1,0 +1,3 @@
+[submodule "stats-clj"]
+	path = stats-clj
+	url = git@github.com:synesenom/stats-clj.git
